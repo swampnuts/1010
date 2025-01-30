@@ -1,0 +1,3 @@
+The decimal value of 'L' is: 76
+The square root of 76 is: 8.7
+PI printed to 8 decimal places is: 3.14159265
